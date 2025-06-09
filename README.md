@@ -16,6 +16,7 @@ To deactivate, you can close the terminal, or type "deactivate"
 
 
 If you want to run a program, run ampy --port /dev/*insert device name here* run led.py
+If the raspberry pi is plugged into the left side top port, you can just run ampy --port /dev/tty.usbmodem1401 run led.py
 
 
 if you want to find your device name, run "ls /dev/tty.*"

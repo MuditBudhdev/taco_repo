@@ -8,5 +8,4 @@ while True:
     utime.sleep(1)
     led_pin.value(0)
     utime.sleep(1)
-
     print("I like to poop.")

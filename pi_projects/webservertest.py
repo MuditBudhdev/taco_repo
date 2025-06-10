@@ -26,7 +26,7 @@ html_content = """
 <body>
     <div class="container">
         <h1>Hello from Raspberry Pi Pico W!</h1>
-        <p>This is a simple web page served directly from your Pico W.</p>
+        <p>Hi dhanishka didi</p>
         <p>Current time (Pico's perspective): <span id="time">Loading...</span></p>
     </div>
     <script>

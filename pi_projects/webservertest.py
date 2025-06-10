@@ -3,8 +3,8 @@ import socket
 import time
 
 # --- Wi-Fi Configuration ---
-SSID = 'Nautanki'    # Replace with your Wi-Fi network name
-PASSWORD = '$tiritin2023' # Replace with your Wi-Fi password
+SSID = ''    # Replace with your Wi-Fi network name
+PASSWORD = '' # Replace with your Wi-Fi password
 
 # --- Web Server Configuration ---
 PORT = 80 # Standard HTTP port

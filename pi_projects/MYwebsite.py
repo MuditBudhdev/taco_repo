@@ -5,8 +5,8 @@ import machine
 import rp2
 import sys
 
-ssid = "Nautanki"
-password = '$tiritin2023'
+ssid = ""
+password = ''
 
 theLED = machine.Pin("LED",machine.Pin.OUT)
 def connectToWifi(): # function to connect to wifi

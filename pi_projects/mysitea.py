@@ -77,3 +77,4 @@ def serve(connection):
 ip = connectToWifi()
 connection = open_socket(ip)
 serve(connection)
+print("hi")
